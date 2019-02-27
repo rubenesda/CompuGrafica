@@ -1,4 +1,4 @@
-// Transformation.cpp: define el punto de entrada de la aplicación de consola.
+// Transformation.cpp: define el punto de entrada de la aplicaciÃ³n de consola.
 //
 
 #include "stdafx.h"
